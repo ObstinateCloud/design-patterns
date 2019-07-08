@@ -1,0 +1,61 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/software/nodejs/node.exe">
+      <version-cache version="8.9.3" last-modified="1512717134000" />
+      <npm-package value="D:/software/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://192.168.100.133/svn/project/platform/kedong/clw/clw_qfjs" />
+        <option value="https://192.168.20.111:4431/svn/source/trunk/interconnection" />
+        <option value="https://192.168.20.111:4431/svn/source" />
+        <option value="https://192.168.20.101/svn/kedong-new/" />
+        <option value="https://EDZ-20170707SWL/svn/bb/" />
+        <option value="https://192.168.20.30/svn/qingxiang" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://192.168.100.133/svn/project/platform/kedong/clw/clw_qfjs" />
+        <option value="https://192.168.20.111:4431/svn/source/trunk/interconnection" />
+        <option value="https://192.168.20.111:4431/svn/source" />
+        <option value="https://192.168.20.101/svn/kedong-new/" />
+        <option value="https://EDZ-20170707SWL/svn/bb/" />
+        <option value="https://192.168.20.30/svn/qingxiang" />
+        <option value="https://EDZ-20170707SWL/svn/src/" />
+        <option value="https://192.168.20.30/svn/src/openapi_car" />
+        <option value="https://192.168.20.30/svn/src" />
+        <option value="https://EDZ-20170707SWL/svn/openapi_car/openapi/branches" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://192.168.20.111:4431/svn/source/trunk/interconnection/hlht-server">
+          <value>
+            <set>
+              <option value="D:\file\ideaWorkspace\province_hlht\trunk\interconnection\hlht-server" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://192.168.20.30/svn/qingxiang">
+          <value>
+            <set>
+              <option value="D:\file\ideaWorkspace\new\qingxiang" />
+              <option value="D:\file\ideaWorkspace\qingxiang" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

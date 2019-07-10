@@ -12,5 +12,13 @@ public class PursuitgirlsClient_v1 {
 
     public static void main(String[] args) {
         System.out.println("----------追女孩系统启动---------");
+        Girl_v1 ajiao = new Girl_v1();
+        ajiao.setName("ajiao");
+
+        Pursuit_v1 daming = new Pursuit_v1(ajiao);
+        daming.giveChocolate();
+        daming.giveFlowers();
+        daming.giveDolls();
+
     }
 }

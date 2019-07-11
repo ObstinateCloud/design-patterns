@@ -7,4 +7,7 @@ package com.lengedyun.calculator.version1;
  * @date: 2019/7/11 21:21
  */
 public interface IFactory {
+
+    Operation_v1 createOperation();
+
 }

@@ -8,5 +8,7 @@ package com.lengedyun.factorymethod;
  */
 public class Base {
 
-
+        public void printClassName(){
+            System.out.println(this.getClass().getName());
+        }
 }

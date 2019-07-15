@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="ThreadPoolTest" type="CLASS" />
+      <mapping pattern="Test" type="CLASS" />
+      <mapping pattern="MapExample" type="PLAIN_TEXT" />
+      <mapping pattern="dubboProperty" type="PLAIN_TEXT" />
+      <mapping pattern="dubbo-Property" type="PLAIN_TEXT" />
+      <mapping pattern=".keystore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -17,9 +17,12 @@ public class DrawPeopleClient_v3 {
         System.out.println("-----------画小人儿系统启动----------");
         Pen_v1 pen_v1 = new Pen_v1("黑色");
         Graphics_v1 graphicsV1 = new Graphics_v1();
-        ThinPeopleBuilder thinPeopleBuilder = new ThinPeopleBuilder(pen_v1,graphicsV1);
-        thinPeopleBuilder.build();
-        FatPeopleBuilder fatPeopleBuilder = new FatPeopleBuilder(pen_v1,graphicsV1);
-        fatPeopleBuilder.build();
+        PersonBuilder thinPeopleBuilder = new ThinPeopleBuilder_v3(graphicsV1,pen_v1);
+        PersonDirector personDirector1 = new PersonDirector(thinPeopleBuilder);
+        personDirector1.createPerson();
+
+        PersonBuilder fatPeopleBuilder = new FatPeopleBuilder_v3(graphicsV1,pen_v1);
+        PersonDirector personDirector2 = new PersonDirector(fatPeopleBuilder);
+        personDirector2.createPerson();
     }
 }

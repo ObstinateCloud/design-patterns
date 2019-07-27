@@ -17,5 +17,5 @@ public class NBAObserver_v2 extends Observer_v2{
     @Override
     public void updateAction(){
         System.out.println(secretaryV2.getAction()+","+name+"停止看nba，开始工作");
-    };
+    }
 }

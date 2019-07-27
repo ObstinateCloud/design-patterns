@@ -5,7 +5,7 @@ import com.lengedyun.secretary.version1.Secretary_v1;
 
 /**
  * @title: SecretaryClient_v2
- * @description: TODO
+ * @description: 对观察者解耦
  * @auther: zjyun
  * @date: 2019/7/25 7:17
  */

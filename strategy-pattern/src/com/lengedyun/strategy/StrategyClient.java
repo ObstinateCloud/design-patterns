@@ -4,7 +4,7 @@ package com.lengedyun.strategy;
  * @author zjy
  * @title: StrategyClient
  * @projectName design-patterns
- * @description: 策略客户端
+ * @description: 策略客户端 按需变更算法
  * @date 2019/6/30 17:15
  */
 public class StrategyClient {

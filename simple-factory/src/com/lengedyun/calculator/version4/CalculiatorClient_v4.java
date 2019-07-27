@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author zjy
  * @title: CalculiatorClient_v2
  * @projectName design-patterns
- * @description: 简单工厂采用继承父类 实现
+ * @description: 简单工厂采用继承父类 实现共用属性
  * @date 2019/6/30 11:26
  */
 public class CalculiatorClient_v4 {

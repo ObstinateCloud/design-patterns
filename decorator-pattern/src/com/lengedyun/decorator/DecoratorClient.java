@@ -4,7 +4,7 @@ package com.lengedyun.decorator;
  * @author zjy
  * @title: DecoratorClient
  * @projectName design-patterns
- * @description: 装饰客户端
+ * @description: 装饰客户端 对需要的操作进行组装
  * @date 2019/7/7 11:15
  */
 public class DecoratorClient {
